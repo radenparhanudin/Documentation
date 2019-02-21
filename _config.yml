@@ -1,17 +1,14 @@
-title: John Smith
+title: Documentation
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+author: Raden Parhanudin
+logo: https://codeasashu.github.io/hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/radenparhanudin
 about: Freelance developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://radenparhanudin.github.io/Documentation"
 url: "https://codeasashu.github.io/hcz-jekyll-blog"
 
 allowsearch: true
-
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
 
 share:
   twitter_username: \#
